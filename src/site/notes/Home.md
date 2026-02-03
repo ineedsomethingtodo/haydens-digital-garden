@@ -10,3 +10,5 @@ P.S. I don't entirely know how this whole digital garden thing works and don't k
 [[Books/Books\|Books]]
 [[Music/Music\|Music]]
 [[Drawing/Drawing\|Drawing]]
+[[Blog/Blog\|Blog]]
+[[Random Things/Random Things\|Random Things]]
