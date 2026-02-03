@@ -8,3 +8,4 @@ P.S. I don't entirely know how this whole digital garden thing works and don't k
 
 [[Fitness/Fitness\|Fitness]]
 [[Books/Books\|Books]]
+[[Music/Music\|Music]]
