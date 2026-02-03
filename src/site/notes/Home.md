@@ -7,7 +7,7 @@ Hey there traveler! Welcome to my digital garden. I kinda think traditional soci
 P.S. I don't entirely know how this whole digital garden thing works and don't know how Obsidian works super well yet, so this might suck for a bit, but that's half the fun, isn't it?
 
 [[Fitness/Fitness\|Fitness]]
-[[Books and Stories/My Books\|My Books]]
+[[Books/Books\|Books]]
 [[Music/Music\|Music]]
 [[Drawing/Drawing\|Drawing]]
 [[Blog/Blog\|Blog]]
