@@ -6,4 +6,4 @@ Hey there traveler! Welcome to my digital garden. I kinda think traditional soci
 
 P.S. I don't entirely know how this whole digital garden thing works and don't know how Obsidian works super well yet, so this might suck for a bit, but that's half the fun, isn't it?
 
-[obsidian://open?vault=Hayden's%20Notes&file=Fitness%2FFitness]
+[[Fitness/Fitness\|Fitness]]
