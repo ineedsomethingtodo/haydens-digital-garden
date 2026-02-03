@@ -3,3 +3,6 @@
 ---
 
 This is where I will be posting my fitness journey. My stats, progress pics, current workout plan, etc. 
+
+[[Fitness/Past Plans\|Past Plans]]
+[[Fitness/Current Plan\|Current Plan]]
